@@ -1,4 +1,4 @@
-[toc]
+[TOC]
 
 # The Title
 ## codecpp
